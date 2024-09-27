@@ -6,6 +6,7 @@ should be replaced by something specific to the task.
 TESTING KEEPING THIS LINE AND DELETING THE ONE BELOW
 
   1. Blah Blah Blah
+  blah
 ----------------------------------------------------------------------------------------------------------------------
 To start a new task using this user_app1 as a template:
  1. Copy both user_app1.c and user_app1.h to the Application directory
